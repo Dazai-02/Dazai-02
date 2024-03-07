@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Dazai-02
-- 🌱 I’m currently learning ...web development
+
 - 
 
 <!---
