@@ -18,7 +18,7 @@ I'm a 2nd-year Electronics and Communication Engineering student with a passion 
 
 *“The only thing we're allowed to do is to believe that we won't regret the choice we made.”* — Levi Ackerman
 
-- 
+
 
 <!---
 Dazai-02/Dazai-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
